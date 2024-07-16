@@ -42,10 +42,10 @@
     padding: 5%;
     font-family: "Outfit" serif;
    }
-   .container2 h2{
+   .container2 h1{
     font-weight: bold; 
     font-family:"Young Serif", serif; 
-    margin-bottom:7%;
+    margin-bottom:5%;
     
    }
    .container2 h5{
@@ -53,7 +53,7 @@
     font-weight: bold;
     font-family:"Young Serif", serif; 
     margin-top: 6%;
-    margin-bottom: 5%;
+    margin-bottom: 6%;
    }
    img{
     width: 100%; 
