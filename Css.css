@@ -52,8 +52,8 @@
     color: var(--Nutmeg);
     font-weight: bold;
     font-family:"Young Serif", serif; 
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin-top: 7%;
+    margin-bottom: 7%;
    }
    img{
     width: 100%; 
@@ -75,7 +75,7 @@
    .preparacion h6{
     color: var(--Dark-Raspberry);
     font-weight: bold;
-    margin-bottom: 5%;
+    margin-bottom: 7%;
    }
     span {
       font-weight: bold;
@@ -85,7 +85,7 @@
     li{
       list-style-position: outside; 
       padding-left: 12px;
-      margin-bottom: 0.75em;
+      margin-bottom: 1em;
       margin-left: -5%;
     }
     .table tr th{
