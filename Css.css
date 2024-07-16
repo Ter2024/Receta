@@ -71,6 +71,7 @@
     background: var(--Rose-White);
     padding: 3.5%;
     border-radius: 6px;
+       margin-top: 6%;
    }
    .preparacion h6{
     color: var(--Dark-Raspberry);
