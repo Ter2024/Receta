@@ -75,7 +75,7 @@
    .preparacion h6{
     color: var(--Dark-Raspberry);
     font-weight: bold;
-    margin-bottom: 8%;
+    margin-bottom: 6.5%;
    }
     span {
       font-weight: bold;
@@ -85,7 +85,7 @@
     li{
       list-style-position: outside; 
       padding-left: 12px;
-      margin-bottom: 0.75em;
+      margin-bottom: 0.70em;
       margin-left: -5%;
     }
     .table tr th{
