@@ -34,7 +34,7 @@
     padding: 1.5rem;
     border-radius: 15px;
     background: var(--White);
-    margin: 9%; 
+    margin: 8.5%; 
     
 
    }
@@ -57,7 +57,7 @@
    }
    img{
     width: 100%; 
-    height: 350px;
+    height: 320px;
     border-radius: 25px; 
     padding: 3%;  
    }
