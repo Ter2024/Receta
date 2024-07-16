@@ -89,6 +89,12 @@
       margin-bottom: 0.70em;
       margin-left: -5%;
     }
+    .instrucciones ol li{
+      list-style-position: outside; 
+      padding-left: 12px;
+      margin-left: -5%;
+      margin-bottom: 0.5em;
+    }
     .table tr th{
       color: var(--Nutmeg) ;
       font-weight: bold;
