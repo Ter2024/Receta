@@ -29,7 +29,7 @@
     
    }
    .container{
-    width: 620px;
+    width: 650px;
     height: auto;  
     padding: 1.5rem;
     border-radius: 15px;
@@ -45,15 +45,15 @@
    .container2 h2{
     font-weight: bold; 
     font-family:"Young Serif", serif; 
-    margin-bottom:4%;
+    margin-bottom:7%;
     
    }
    .container2 h5{
     color: var(--Nutmeg);
     font-weight: bold;
     font-family:"Young Serif", serif; 
-    margin-top: 7%;
-    margin-bottom: 7%;
+    margin-top: 6%;
+    margin-bottom: 5%;
    }
    img{
     width: 100%; 
@@ -69,13 +69,13 @@
 
    .preparacion{
     background: var(--Rose-White);
-    padding: 3%;
+    padding: 3.5%;
     border-radius: 6px;
    }
    .preparacion h6{
     color: var(--Dark-Raspberry);
     font-weight: bold;
-    margin-bottom: 7%;
+    margin-bottom: 8%;
    }
     span {
       font-weight: bold;
@@ -85,7 +85,7 @@
     li{
       list-style-position: outside; 
       padding-left: 12px;
-      margin-bottom: 1em;
+      margin-bottom: 0.75em;
       margin-left: -5%;
     }
     .table tr th{
