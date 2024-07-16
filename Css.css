@@ -71,7 +71,8 @@
     background: var(--Rose-White);
     padding: 3.5%;
     border-radius: 6px;
-       margin-top: 6%;
+    margin-top: 6%;
+       margin-bottom:6.5%;
    }
    .preparacion h6{
     color: var(--Dark-Raspberry);
@@ -86,7 +87,7 @@
     li{
       list-style-position: outside; 
       padding-left: 12px;
-      margin-bottom: 0.70em;
+      margin-bottom: 0.68em;
       margin-left: -5%;
     }
     .instrucciones ol li{
@@ -98,5 +99,5 @@
     .table tr th{
       color: var(--Nutmeg) ;
       font-weight: bold;
-      font-size: 15px
+      font-size: 16px
     }
