@@ -57,7 +57,7 @@
    }
    img{
     width: 100%; 
-    height: 320px;
+    height: 330px;
     border-radius: 25px; 
     padding: 3%;  
    }
@@ -91,4 +91,5 @@
     .table tr th{
       color: var(--Nutmeg) ;
       font-weight: bold;
+      font-size: 15px
     }
