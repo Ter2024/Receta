@@ -31,15 +31,15 @@
    .container{
     width: 620px;
     height: auto;  
-    padding: 1rem;
+    padding: 1.5rem;
     border-radius: 15px;
     background: var(--White);
-    margin: 10%; 
+    margin: 8%; 
     
 
    }
    .container2{
-    padding: 3%;
+    padding: 5%;
     font-family: "Outfit" serif;
    }
    .container2 h2{
@@ -58,8 +58,8 @@
    img{
     width: 100%; 
     height: auto;
-    border-radius: 20px; 
-    padding: 2%;  
+    border-radius: 25px; 
+    padding: 3%;  
    }
    li::marker{
     color: var(--Nutmeg);
